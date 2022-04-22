@@ -1,0 +1,12 @@
+h1,h2{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    background-color :black ;
+    margin: 0px;
+    padding: 10px;
+}
+html{
+    border: solid black;
+}
